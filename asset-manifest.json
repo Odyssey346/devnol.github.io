@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.16e2981a.chunk.css",
-    "main.js": "/static/js/main.b048ed4e.chunk.js",
-    "main.js.map": "/static/js/main.b048ed4e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b842df3d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b842df3d.js.map",
-    "static/js/2.adcc213e.chunk.js": "/static/js/2.adcc213e.chunk.js",
-    "static/js/2.adcc213e.chunk.js.map": "/static/js/2.adcc213e.chunk.js.map",
-    "static/js/3.eb5040e8.chunk.js": "/static/js/3.eb5040e8.chunk.js",
-    "static/js/3.eb5040e8.chunk.js.map": "/static/js/3.eb5040e8.chunk.js.map",
+    "main.css": "/static/css/main.f7ab7111.chunk.css",
+    "main.js": "/static/js/main.b3880cae.chunk.js",
+    "main.js.map": "/static/js/main.b3880cae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.808db512.js",
+    "runtime-main.js.map": "/static/js/runtime-main.808db512.js.map",
+    "static/js/2.12402c52.chunk.js": "/static/js/2.12402c52.chunk.js",
+    "static/js/2.12402c52.chunk.js.map": "/static/js/2.12402c52.chunk.js.map",
+    "static/js/3.6d0e76ef.chunk.js": "/static/js/3.6d0e76ef.chunk.js",
+    "static/js/3.6d0e76ef.chunk.js.map": "/static/js/3.6d0e76ef.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.16e2981a.chunk.css.map": "/static/css/main.16e2981a.chunk.css.map",
-    "static/js/2.adcc213e.chunk.js.LICENSE.txt": "/static/js/2.adcc213e.chunk.js.LICENSE.txt",
+    "static/css/main.f7ab7111.chunk.css.map": "/static/css/main.f7ab7111.chunk.css.map",
+    "static/js/2.12402c52.chunk.js.LICENSE.txt": "/static/js/2.12402c52.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Comfortaa.7897f745.ttf",
-    "static/media/logo.bcbdcf14.svg": "/static/media/logo.bcbdcf14.svg"
+    "static/media/discord.aaa05569.svg": "/static/media/discord.aaa05569.svg",
+    "static/media/github.5efe3139.svg": "/static/media/github.5efe3139.svg",
+    "static/media/hackclub.376b01ff.svg": "/static/media/hackclub.376b01ff.svg",
+    "static/media/logo.bcbdcf14.svg": "/static/media/logo.bcbdcf14.svg",
+    "static/media/twitter.94275d10.svg": "/static/media/twitter.94275d10.svg",
+    "static/media/youtube.53117653.svg": "/static/media/youtube.53117653.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b842df3d.js",
-    "static/js/2.adcc213e.chunk.js",
-    "static/css/main.16e2981a.chunk.css",
-    "static/js/main.b048ed4e.chunk.js"
+    "static/js/runtime-main.808db512.js",
+    "static/js/2.12402c52.chunk.js",
+    "static/css/main.f7ab7111.chunk.css",
+    "static/js/main.b3880cae.chunk.js"
   ]
 }
