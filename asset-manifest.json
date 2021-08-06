@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.25d862ec.chunk.css",
-    "main.js": "/static/js/main.13eee858.chunk.js",
-    "main.js.map": "/static/js/main.13eee858.chunk.js.map",
+    "main.css": "/static/css/main.6360456d.chunk.css",
+    "main.js": "/static/js/main.32fd7d8d.chunk.js",
+    "main.js.map": "/static/js/main.32fd7d8d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b842df3d.js",
     "runtime-main.js.map": "/static/js/runtime-main.b842df3d.js.map",
     "static/js/2.e31a1083.chunk.js": "/static/js/2.e31a1083.chunk.js",
@@ -10,10 +10,10 @@
     "static/js/3.eb5040e8.chunk.js": "/static/js/3.eb5040e8.chunk.js",
     "static/js/3.eb5040e8.chunk.js.map": "/static/js/3.eb5040e8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.25d862ec.chunk.css.map": "/static/css/main.25d862ec.chunk.css.map",
+    "static/css/main.6360456d.chunk.css.map": "/static/css/main.6360456d.chunk.css.map",
     "static/js/2.e31a1083.chunk.js.LICENSE.txt": "/static/js/2.e31a1083.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Comfortaa.7897f745.ttf",
-    "static/media/discord.aaa05569.svg": "/static/media/discord.aaa05569.svg",
+    "static/media/discord.1126021a.svg": "/static/media/discord.1126021a.svg",
     "static/media/github.5efe3139.svg": "/static/media/github.5efe3139.svg",
     "static/media/hackclub.376b01ff.svg": "/static/media/hackclub.376b01ff.svg",
     "static/media/logo.bcbdcf14.svg": "/static/media/logo.bcbdcf14.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b842df3d.js",
     "static/js/2.e31a1083.chunk.js",
-    "static/css/main.25d862ec.chunk.css",
-    "static/js/main.13eee858.chunk.js"
+    "static/css/main.6360456d.chunk.css",
+    "static/js/main.32fd7d8d.chunk.js"
   ]
 }
